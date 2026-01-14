@@ -1,0 +1,32 @@
+body{
+  font-family: sans-serif;
+}
+header {
+    background-color: orange;
+    text-align: center;
+    padding: 25px;
+}
+h1 {
+    color: yellow;
+}
+a {
+    color: orange;
+    background-color: yellow;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 15px;
+    font-size: 20px;
+}
+main {
+    text-align: center;
+    font-size: 22px;
+}
+ul{
+    text-align: center;
+    background-color: yellow;
+}
+
+footer{
+    text-align: center;
+    font-size: 22px;;
+}
